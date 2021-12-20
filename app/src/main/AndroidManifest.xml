@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.dev_marinov.wnfxtest2">
+
+    <!--
+         Разрешения ACCESS_COARSE / FINE_LOCATION не требуются для использования
+         Google Maps Android API v2, но вы должны указать грубый или точный
+         разрешения местоположения для функции «MyLocation».
+    -->
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+<!--    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />-->
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+     <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.WNFXtest2"
+        android:usesCleartextTraffic="true">
+
+        <!--
+             Ключ API для API на основе Карт Google определяется как строковый ресурс.
+             (См. Файл "res / values ​​/ google_maps_api.xml").
+             Обратите внимание, что ключ API связан с ключом шифрования, используемым для подписи APK.
+             Для каждого ключа шифрования вам понадобится отдельный ключ API, включая ключ выпуска, который используется для
+             подписать APK для публикации.
+             Вы можете определить ключи для целей отладки и выпуска в src / debug / и src / release /.
+        -->
+        <meta-data
+            android:name="com.google.android.geo.API_KEY"
+            android:value="@string/google_maps_key" />
+
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

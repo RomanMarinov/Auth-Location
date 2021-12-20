@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "689310374764",
+    "project_id": "wnfxtest2",
+    "storage_bucket": "wnfxtest2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:689310374764:android:0859cd2bcaa54eb68a3149",
+        "android_client_info": {
+          "package_name": "com.dev_marinov.wnfxtest2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "689310374764-g4gu9p250hcrlddtjscla497jo1ll3tb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dev_marinov.wnfxtest2",
+            "certificate_hash": "9c6b24bda19c5c4390a5de52f429e35f749f2299"
+          }
+        },
+        {
+          "client_id": "689310374764-ou5nt4mlnboblisfkgs4mn3gcuvl76tk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6WVK_VDAEJbE8F57R8dA7uOKKFlsxyvI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "689310374764-ou5nt4mlnboblisfkgs4mn3gcuvl76tk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

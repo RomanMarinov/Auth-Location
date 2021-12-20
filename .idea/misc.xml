@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/I_AM/PROFESSION_DEVELOPER/junior interview/WNFXtest2/app/src/main/res/drawable-anydpi-v24/ic_notification.xml" value="0.24010416666666667" />
+        <entry key="..\:/I_AM/PROFESSION_DEVELOPER/junior interview/WNFXtest2/app/src/main/res/drawable-v24/gradient_1.xml" value="0.11197916666666667" />
+        <entry key="..\:/I_AM/PROFESSION_DEVELOPER/junior interview/WNFXtest2/app/src/main/res/drawable-v24/gradient_2.xml" value="0.12604166666666666" />
+        <entry key="..\:/I_AM/PROFESSION_DEVELOPER/junior interview/WNFXtest2/app/src/main/res/drawable-v24/gradient_3.xml" value="0.12604166666666666" />
+        <entry key="..\:/I_AM/PROFESSION_DEVELOPER/junior interview/WNFXtest2/app/src/main/res/drawable-v24/rounded_edittext.xml" value="0.12604166666666666" />
+        <entry key="..\:/I_AM/PROFESSION_DEVELOPER/junior interview/WNFXtest2/app/src/main/res/drawable/rounded_textview.xml" value="0.1" />
+        <entry key="..\:/I_AM/PROFESSION_DEVELOPER/junior interview/WNFXtest2/app/src/main/res/layout/activity_main.xml" value="0.10989583333333333" />
+        <entry key="..\:/I_AM/PROFESSION_DEVELOPER/junior interview/WNFXtest2/app/src/main/res/layout/fragment_auth.xml" value="0.25343999226562525" />
+        <entry key="..\:/I_AM/PROFESSION_DEVELOPER/junior interview/WNFXtest2/app/src/main/res/layout/fragment_enter_s_m_s.xml" value="0.10989583333333333" />
+        <entry key="..\:/I_AM/PROFESSION_DEVELOPER/junior interview/WNFXtest2/app/src/main/res/layout/fragment_enter_sms.xml" value="0.25343999226562525" />
+        <entry key="..\:/I_AM/PROFESSION_DEVELOPER/junior interview/WNFXtest2/app/src/main/res/layout/fragment_finish.xml" value="0.22395833333333334" />
+        <entry key="..\:/I_AM/PROFESSION_DEVELOPER/junior interview/WNFXtest2/app/src/main/res/layout/fragment_list_food.xml" value="0.12287999625000012" />
+        <entry key="..\:/I_AM/PROFESSION_DEVELOPER/junior interview/WNFXtest2/app/src/main/res/layout/fragment_map.xml" value="0.25343999226562525" />
+        <entry key="..\:/I_AM/PROFESSION_DEVELOPER/junior interview/WNFXtest2/app/src/main/res/layout/fragment_map_test.xml" value="0.22395833333333334" />
+        <entry key="..\:/I_AM/PROFESSION_DEVELOPER/junior interview/WNFXtest2/app/src/main/res/layout/fragment_map_test2.xml" value="0.22395833333333334" />
+        <entry key="..\:/I_AM/PROFESSION_DEVELOPER/junior interview/WNFXtest2/app/src/main/res/layout/fragment_maps.xml" value="0.20989583333333334" />
+        <entry key="..\:/I_AM/PROFESSION_DEVELOPER/junior interview/WNFXtest2/app/src/main/res/layout/fragment_success.xml" value="0.38399998828125037" />
+        <entry key="..\:/I_AM/PROFESSION_DEVELOPER/junior interview/WNFXtest2/app/src/main/res/layout/fragment_test.xml" value="0.22395833333333334" />
+        <entry key="..\:/I_AM/PROFESSION_DEVELOPER/junior interview/WNFXtest2/app/src/main/res/layout/row_list_food.xml" value="0.25239234449760767" />
+        <entry key="..\:/I_AM/PROFESSION_DEVELOPER/junior interview/WNFXtest2/app/src/main/res/layout/row_list_photo.xml" value="0.22395833333333334" />
+        <entry key="..\:/I_AM/PROFESSION_DEVELOPER/junior interview/WNFXtest2/app/src/main/res/layout/row_users.xml" value="0.22395833333333334" />
+        <entry key="..\:/I_AM/PROFESSION_DEVELOPER/junior interview/WNFXtest2/app/src/main/res/layout/rv_view_rage_2.xml" value="0.22395833333333334" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <com.google.android.material.tabs.TabLayout
+        android:id="@+id/tablayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:layout_editor_absoluteY="373dp"
+        app:layout_editor_absoluteX="182dp"
+
+        />
+
+    <LinearLayout
+        android:id="@+id/ll_tab_1"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        >
+
+        <fragment
+            android:tag="map_fragment"
+            android:id="@+id/map_frag"
+            android:layout_width="match_parent"
+            tools:layout="@layout/fragment_map"
+            android:name="com.dev_marinov.wnfxtest2.MapFragment"
+            android:layout_height="match_parent">
+        </fragment>
+    </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/ll_tab_2"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            >
+
+            <fragment
+                android:tag="fragment_list_food"
+                android:id="@+id/frag_list_food"
+                android:layout_width="match_parent"
+                tools:layout="@layout/fragment_list_food"
+                android:name="com.dev_marinov.wnfxtest2.FragmentListFood"
+                android:layout_height="match_parent">
+            </fragment>
+        </LinearLayout>
+
+
+
+
+</LinearLayout>
